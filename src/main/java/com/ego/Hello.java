@@ -5,5 +5,7 @@ public class Hello {
 //        System.out.println("Hello");
         Person ego = new Person();
         ego.hello();
+        int age = 19;
+
     }
 }
